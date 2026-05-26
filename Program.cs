@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");Console.WriteLine("This is a C# 12.0 project targeting .NET 8.0.");
+﻿using T2T2;
+
+ArbolBBP a = new ArbolBBP();
+
+
